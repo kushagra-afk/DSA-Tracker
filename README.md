@@ -68,7 +68,7 @@ This repository is my personal, structured log of solving every problem in Striv
 
 **Total Progress: `0 / 455` problems solved**
 
-![Progress Bar](https://progress-bar.dev/0/?title=Overall%20Completion&width=500&color=babaca)
+![Progress](https://img.shields.io/badge/Overall%20Completion-0%25-babaca?style=for-the-badge)
 
 </div>
 
