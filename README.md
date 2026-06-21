@@ -13,8 +13,7 @@ Mastering algorithmic thinking and problem-solving through disciplined, daily pr
 [![Profile Views](https://komarev.com/ghpvc/?username=kushagra-afk&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/kushagra-afk)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[![Stars](https://img.shields.io/github/stars/kushagra-afk/Striver-A2Z-DSA-Cracker?style=for-the-badge&color=yellow)](../../stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/kushagra-afk/Striver-A2Z-DSA-Cracker?style=for-the-badge&color=blue)](../../commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/kushagra-afk/DSA-Tracker?style=for-the-badge&color=blue)](../../commits/main)
 
 <br/>
 
