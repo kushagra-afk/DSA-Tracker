@@ -44,7 +44,7 @@ This repository is my personal, structured log of solving every problem in Striv
 
 > Tracking all **18 Steps** of Striver's A2Z Sheet. Tick the box once a step is fully solved and pushed — GitHub renders these as real, clickable checkboxes.
 
-- [x] **Step 01** — Learn the Basics → [`Step 01 - Basics`](./Step%2001%20-%20Basics)
+✅ **Step 01** — Learn the Basics → [`Step 01 - Basics`](./Step%2001%20-%20Basics)
 - [ ] **Step 02** — Learn Important Sorting Techniques → [`Step 02 - Sorting`](./Step%2002%20-%20Sorting)
 - [ ] **Step 03** — Solve Problems on Arrays → [`Step 03 - Arrays`](./Step%2003%20-%20Arrays)
 - [ ] **Step 04** — Binary Search [1D, 2D Arrays, Search Space] → [`Step 04 - Binary Search`](./Step%2004%20-%20Binary%20Search)
